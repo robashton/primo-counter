@@ -1,0 +1,20 @@
+{
+  "name": "primo-counter",
+  "version": "0.0.0",
+  "description": "Counter module for measuring the average time of a specific event",
+  "main": "counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robashton/primo-counter.git"
+  },
+  "keywords": [
+    "timer",
+    "games",
+    "primo"
+  ],
+  "author": "Rob Ashton",
+  "license": "MIT"
+}
